@@ -7,8 +7,8 @@ public class Greet {
 		System.out.println("Siva");
 		
 		Math math = new Math();
-		math.setVar1(4);
-		math.setVar2(6);
+		math.setVar1(40);
+		math.setVar2(60);
 		
 		System.out.println(math.add());
 	}
